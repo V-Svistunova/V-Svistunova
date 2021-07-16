@@ -1,12 +1,10 @@
-[![Header](https://github.com/V-Svistunova/V-Svistunova/blob/main/assets/header.png)]
+![Header](https://github.com/V-Svistunova/V-Svistunova/blob/main/assets/header.png)
 
 ## I'm a beginner Software Engineer
 
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ### Follow Me:
 
