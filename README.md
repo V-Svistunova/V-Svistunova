@@ -1,4 +1,4 @@
-[![Header]()]
+[![Header](https://github.com/V-Svistunova/V-Svistunova/blob/main/assets/header.png)]
 
 ## I'm a beginner Software Engineer
 
