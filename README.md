@@ -6,7 +6,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=E9D54D)
-![SCSS](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=CSS&logoColor=E9D54D)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=CSS&logoColor=E9D54D)
 
 ### Follow Me:
 
