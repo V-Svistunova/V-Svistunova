@@ -1,6 +1,6 @@
 ![Header](https://github.com/V-Svistunova/V-Svistunova/blob/main/assets/header.png)
 
-## I'm a beginner Software Engineer
+## I'm HTML/CSS-developer/Junior Front-end Developer
 
 ### Languages and Tools:
 
