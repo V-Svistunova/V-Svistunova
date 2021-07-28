@@ -11,7 +11,6 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
