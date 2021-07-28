@@ -5,9 +5,8 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new technologies
 - 🎉 I love swimming, drawing and laugh with memes
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=senior-13j&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/V-Svistunova/)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senior-13j&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/V-Svistunova/)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/V-Svistunova/)
 
 ### Languages and Tools:
 
