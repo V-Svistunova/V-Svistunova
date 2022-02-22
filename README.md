@@ -1,9 +1,9 @@
-# Hello!
+### Hello 👋, I'm Viktoryia
 ## I'm HTML coder / Junior Front-end Developer
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new technologies
-- 🎉 I love swimming, drawing and laugh with memes
+- 🎉 I love watching anime, drawing and laughing at memes
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/V-Svistunova/)
 
