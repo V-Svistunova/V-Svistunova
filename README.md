@@ -1,5 +1,4 @@
-![Header](https://github.com/V-Svistunova/V-Svistunova/blob/main/assets/header.png)
-
+# Hello!
 ## I'm HTML coder / Junior Front-end Developer
 
 - 💪 I like to write code
