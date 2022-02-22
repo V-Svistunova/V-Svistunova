@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode)   
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
