@@ -14,6 +14,7 @@
 ![Less](https://img.shields.io/badge/-Less-090909?style=for-the-badge&logo=Less)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![jquery](https://img.shields.io/badge/-jquery-090909?style=for-the-badge&logo=jquery)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
