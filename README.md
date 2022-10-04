@@ -6,7 +6,7 @@
 - 🎉 I love watching anime, drawing and laughing at memes
  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senior-13j&theme=dark&hide=jupyter%20notebook,js,html,css,go&langs_count=8&layout=compact)](https://github.com/V-Svistunova/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&theme=dark&hide=jupyter%20notebook,js,html,css,go&langs_count=8&layout=compact)](https://github.com/V-Svistunova/)
 
 
 ### Languages and Tools:
