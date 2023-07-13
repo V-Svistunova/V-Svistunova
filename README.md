@@ -7,7 +7,8 @@
  
   
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&hide_progress=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&theme=dark&hide_progress=true&layout=compact)
 
 ### Languages and Tools:
 
