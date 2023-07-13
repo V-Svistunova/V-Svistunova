@@ -6,9 +6,9 @@
 - 🎉 I love watching anime, drawing and laughing at memes
  
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&layout=pie)](https://github.com/V-Svistunova/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&theme=dark&hide_progress=true&layout=compact)](https://github.com/V-Svistunova/)
 
 ### Languages and Tools:
 
