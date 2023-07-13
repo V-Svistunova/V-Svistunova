@@ -9,9 +9,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&layout=donut&theme=radical)](https://github.com/V-Svistunova/)
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=V-Svistunova&theme=radical)](https://github.com/V-Svistunova/)
-
-
 ### Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
