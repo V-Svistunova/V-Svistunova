@@ -4,11 +4,8 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new technologies
 - 🎉 I love watching anime, drawing and laughing at memes
- 
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&layout=pie)](https://github.com/V-Svistunova/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=V-Svistunova&layout=donut-vertical)](https://github.com/V-Svistunova/)
 
 ### Languages and Tools:
 
