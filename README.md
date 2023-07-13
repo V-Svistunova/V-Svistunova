@@ -1,5 +1,5 @@
 ### Hello 👋, I'm Viktoryia
-## I'm HTML coder / Junior Front-end Developer
+## I'm HTML coder / Front-end Developer
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new technologies
